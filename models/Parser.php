@@ -11,7 +11,7 @@ class Parser extends Model {
 
     private $result_arr;
     private $request_url = 'https://api.fantasydata.net/mlb/v2/JSON/Games/2016';
-    private $token = 'insert key';
+    private $token = '30cc6914692e4ee1805edf8c1967b823';
     private $models = [];
 
     public function getJson() {
