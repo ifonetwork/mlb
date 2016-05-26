@@ -1,4 +1,3 @@
-README.md for hotfix
 Major League Baseball  PARSER / SCHEDULER  based on Yii2
 ============================
 Application display  table with  AJAX data. 
